@@ -13,16 +13,16 @@ Xinjiang University                                (2018-2021)
 
 # SKILLS
 ```markdown
-Deep Leaning 
+- Deep Leaning 
 Familiar deep learning basic theories and models including LSTM, Transfomer, BERT, Seq2Seq, etc.
 
-Machine Learning
+- Machine Learning
 Familiar with basic statistical machine learning theories and algorithms.
 
-Coding
+- Coding
 Familiar with Java, Python, Web, and Neo4j database, have enterprise- level project development experience.
 
-Languages
+- Languages
 Strong reading, writing and written several SCI and EI papers
 
 ```
