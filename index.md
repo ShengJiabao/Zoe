@@ -3,11 +3,11 @@
 
 # Education
 
-Xinjiang University                                (2018-2021)
+### Xinjiang University                                (2018-2021)
 
 Master of Software Engineering
 
-Xinjiang University                                (2018-2021)
+### Xinjiang University                                (2018-2021)
 
 Bachelor of Software Engineering
 
@@ -19,8 +19,8 @@ Bachelor of Software Engineering
 ```
 
 # SKILLS
-```markdown
-- Deep Leaning 
+
+Deep Leaning 
 Familiar deep learning basic theories and models including LSTM, Transfomer, BERT, Seq2Seq, etc.
 
 - Machine Learning
