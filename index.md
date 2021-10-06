@@ -1,10 +1,14 @@
 # Personal Information
-[Image](src)
+[Image](.//jiabao_sheng.JPG)
 
 Name:Jiabao SHENG
+
 Position:Research Assistant
+
 Email:jiabao.sheng@polyu.edu.hk
+
 Address:PQ504, Mong Man Wai Building
+
 Research Interest:nature language processing and knowledge graph
 
 # Education
