@@ -22,11 +22,6 @@ Master of Software Engineering
 Bachelor of Software Engineering
 
 
-
-
-[Link](url) and ![Image](src)
-
-
 # SKILLS
 
 ### Deep Leaning 
