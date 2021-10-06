@@ -3,11 +3,16 @@
 
 # Education
 
+Xinjiang University                                (2018-2021)
+Master of Software Engineering
+
+Xinjiang University                                (2018-2021)
+Bachelor of Software Engineering
+
+
 ```markdown
-Xinjiang University                                (2018-2021)
-- Master of Software Engineering
-Xinjiang University                                (2018-2021)
-- Bachelor of Software Engineering
+
+
 [Link](url) and ![Image](src)
 ```
 
