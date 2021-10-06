@@ -37,16 +37,16 @@ IEEE Access Reviewer
 # RESEARCH PUBLICATIONS
 ## Journal Articles
 ```markdown
-1. Sheng, Jiabao, Wumaier, A., & Li, Z. (2020). Poise: Efficient cross-domain chinese named entity recognization via transfer learning. Symmetry, 12(10), 1673.[Link](url)
-2. Ke, Z., Sheng, Jiabao, Li, Z., Wushour, S., & Guo, Q. (2021). Knowledge-guided sentiment analysis via learning from natural language explanations. IEEE Access, 9, 3570–3578. [Link](url)
-3. Li, Z., Li, X., Sheng, Jiabao, & Slamu, W. (2020). Agglutifit: Efficient low-resource agglutinative language model fine-tuning. IEEE Access, 8, 148489–148499.[Link](url)
-4. Li, Z., Maimaiti, M., Sheng, Jiabao, Ke, Z., Silamu, W., Wang, Q., & Li, X. (2020). An empirical study on deep neural network models for Chinese dialogue generation. Symmetry,12(11), 1756.[Link](url)
-5. Ke, Z., Li, Z., Zhou, C., Sheng, Jiabao, Wushour, S., & Guo, Q. (2020). Rumor detection on social media via fused semantic information and a propagation heterogeneous graph. Symmetry, 12(11), 1806.[Link](url)
+1. Sheng, Jiabao, Wumaier, A., & Li, Z. (2020). Poise: Efficient cross-domain chinese named entity recognization via transfer learning. Symmetry, 12(10), 1673.
+2. Ke, Z., Sheng, Jiabao, Li, Z., Wushour, S., & Guo, Q. (2021). Knowledge-guided sentiment analysis via learning from natural language explanations. IEEE Access, 9, 3570–3578. 
+3. Li, Z., Li, X., Sheng, Jiabao, & Slamu, W. (2020). Agglutifit: Efficient low-resource agglutinative language model fine-tuning. IEEE Access, 8, 148489–148499.
+4. Li, Z., Maimaiti, M., Sheng, Jiabao, Ke, Z., Silamu, W., Wang, Q., & Li, X. (2020). An empirical study on deep neural network models for Chinese dialogue generation. Symmetry,12(11), 1756.
+5. Ke, Z., Li, Z., Zhou, C., Sheng, Jiabao, Wushour, S., & Guo, Q. (2020). Rumor detection on social media via fused semantic information and a propagation heterogeneous graph. Symmetry, 12(11), 1806.
 ```
 ## Conference proceedings
 ```markdown
-1. Li, X., Li, Z., Sheng, Jiabao, & Slamu, W. (2020). Low-resource text classification via cross- lingual language model fine-tuning, In China national conference on Chinese computational linguistics. Springer.[Link](url)
-2. Qing, Y., Li, Z., Sheng, Jiabao, Jing, S., & Wushour, S. (2020). Yuq: A chinese-uyghur medical- domain neural machine translation dataset towards knowledge-driven, In China conference on machine translation. Springer[Link](url)
+1. Li, X., Li, Z., Sheng, Jiabao, & Slamu, W. (2020). Low-resource text classification via cross- lingual language model fine-tuning, In China national conference on Chinese computational linguistics. Springer.
+2. Qing, Y., Li, Z., Sheng, Jiabao, Jing, S., & Wushour, S. (2020). Yuq: A chinese-uyghur medical- domain neural machine translation dataset towards knowledge-driven, In China conference on machine translation. Springer.
 ```
 
 # PROJECT EXPERIENCE
