@@ -38,7 +38,7 @@ Strong reading, writing and written several SCI and EI papers
 
 
 
-# ACADEMIC WORK
+# PROFESSIONAL SERVICES
 
 IEEE Access Reviewer
 
