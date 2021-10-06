@@ -32,13 +32,13 @@ Familiar with Java, Python, Web, and Neo4j database, have enterprise- level proj
 ### Languages
 Strong reading, writing and written several SCI and EI papers
 
-```
+
 
 # ACADEMIC WORK
-```markdown
+
 IEEE Access Reviewer
 
-```
+
 
 
 # RESEARCH PUBLICATIONS
