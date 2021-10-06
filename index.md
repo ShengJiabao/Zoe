@@ -1,5 +1,5 @@
 # Personal Information
-![Image](http://github.com/ShengJiabao/Zoe/blob/gh-pages/jiabao_sheng2.jpg)
+![Image](https://github.com/ShengJiabao/Zoe/blob/gh-pages/jiabao_sheng2.jpg)
 
 Name: Jiabao SHENG
 
