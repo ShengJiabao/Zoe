@@ -72,7 +72,7 @@ Awarded the Top 100 team                                (2019.11)
 Awarded by Youth Technology Center of China Association for Science and Technology; Organizing Committee of China Graduate Artificial Intelligence Innovation Competition; Zhejiang university.
 In "Intel Cup" the first China Graduate Student ARTIFICIAL intelligence Innovation Competition.
 
-Awarded the third prize                                (2019.09)
+Awarded the third prize                                 (2019.09)
 Awarded by National College English Contest Organizing Committee; Xinjiang Uygur Autonomous Region College Foreign Language Teaching Research Association.
 In 2019 National English Competition for College Students
 
@@ -80,22 +80,22 @@ Awarded the second prize                                (2019.05)
 Awarded by Organizing Committee of Chinese College Students' Service Outsourcing Innovation and Entrepreneurship Competition.
 In the 10th Chinese College Students' Service Outsourcing Innovation and Entrepreneurship Competition.
 
-Awarded Municipal first Prize                                (2018.08)
+Awarded Municipal first Prize                           (2018.08)
 Awarded by the People's Government of xinjiang Uygur Autonomous Region.
 In youth Creative Competition-Final.
 
-Awarded the third prize                                (2018.07)
+Awarded the third prize                                 (2018.07)
 Awarded by the People's Government of xinjiang Uygur Autonomous Region.
 In China Chuangyi innovation and Entrepreneurship Competition.
 
-Awarded the third prize                                (2018.05)
+Awarded the third prize                                 (2018.05)
 Awarded by Chinese Information Center, Ministry of Industry and Information Technology; Xiamen Media Group.
 In 2018 "create customer China" Internet plus big data innovation and Entrepreneurship Competition.
 
 ```
 ## Certification
 ```markdown
-Certified course-completion certificate                                (2019)
+Certified course-completion certificate                   (2019)
 Awarded by Intel China Ltd.
 I have participated in the artificial intelligence Training camp for 2019 college students hosted by Intel (China) Limited.
 
